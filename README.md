@@ -1,1 +1,0 @@
-# Agri-Sarthi-AWS-Hackathon
